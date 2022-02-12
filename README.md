@@ -1,2 +1,2 @@
 # robbeery-detector
-RobBEERy detector, a fun project by @vaziozio :)
+RobBEERy detector, a fuNnY project by @vaziozio :)
